@@ -1,0 +1,7 @@
+Coupling and Cohesion
+  While programming, keeping the modules simple is critical. If the design complexity increases, there is more likely to introduce a bug.
+  There should be a way to evaluvate the desing complexity.
+  Metric used to evaluvate this complexity is Coupling and Cohesion.
+  
+  Coupling - Focus on the complexity between a module and other module
+  Cohesion - Focus on the complexity with in the Module
