@@ -5,3 +5,8 @@ Coupling and Cohesion
   
   Coupling - Focus on the complexity between a module and other module
   Cohesion - Focus on the complexity with in the Module
+  
+  
+2 Difference between git merge and git rebase:
+  Git merge will create a new merge commit, poluting the feature branch. 
+  But rebase re-writes the project history by creating brand new commits for each commit in the original branch.
